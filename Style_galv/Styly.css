@@ -1,0 +1,9 @@
+.card {
+	width: 40%;
+	margin-left: 5%;
+}
+#topNubex {
+	position: fixed;
+	right: 45px;
+	bottom: 45px;
+}
